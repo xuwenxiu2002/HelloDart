@@ -1,4 +1,4 @@
-
+Run|Debug
 void main(List<String> args)
 {
   default_value();
@@ -13,3 +13,5 @@ void default_value()
 }
 
 void late_variables(){}
+
+void final_and_const(){}
