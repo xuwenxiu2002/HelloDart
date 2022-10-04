@@ -1,4 +1,3 @@
-Run|Debug
 void main(List<String> args)
 {
   default_value();
